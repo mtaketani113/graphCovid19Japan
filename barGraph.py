@@ -4,7 +4,7 @@ import matplotlib.dates as mdates
 import readFiles as rf
 import datetime
 
-#json読み込み 
+#json読み込み
 json = rf.readJsonFile('japan.json')
 
 leftList = list()
