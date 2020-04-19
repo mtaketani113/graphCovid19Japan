@@ -30,6 +30,7 @@ jobs:
         curl https://api.covid19api.com/dayone/country/japan | jq .  > japan.json
         git add .
         git commit -m "update japan.json!"
+        git push origin master
       env:
         NAME: mtaketani113
         REPO: graphCovid19Japan
