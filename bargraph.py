@@ -2,7 +2,7 @@
 import numpy as np
 import matplotlib.pyplot as plt
 import matplotlib.dates as mdates
-import readFiles as rf
+import readfiles as rf
 import datetime as dt
 
 # json読み込み
