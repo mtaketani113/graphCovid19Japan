@@ -7,11 +7,11 @@ import json
 def read_json_file(file_path):
     """Read Json File.
 
-        Args:
-            file_path: 入力ファイルパス
+    Args:
+        file_path: 入力ファイルパス
 
-        Returns:
-            output- 読み込んだファイルをJson形式
+    Returns:
+        output- 読み込んだファイルをJson形式
     """
     json_open = open(file_path, 'r')
     json_load = json.load(json_open)
