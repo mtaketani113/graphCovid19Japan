@@ -1267,10 +1267,24 @@
     "CityCode": "",
     "Lat": "36.2",
     "Lon": "138.25",
-    "Confirmed": 10797,
-    "Deaths": 236,
-    "Recovered": 1159,
-    "Active": 9402,
+    "Confirmed": 11135,
+    "Deaths": 263,
+    "Recovered": 1239,
+    "Active": 0,
     "Date": "2020-04-21T00:00:00Z"
+  },
+  {
+    "Country": "Japan",
+    "CountryCode": "JP",
+    "Province": "",
+    "City": "",
+    "CityCode": "",
+    "Lat": "36.2",
+    "Lon": "138.25",
+    "Confirmed": 11135,
+    "Deaths": 263,
+    "Recovered": 1239,
+    "Active": 9633,
+    "Date": "2020-04-22T00:00:00Z"
   }
 ]
