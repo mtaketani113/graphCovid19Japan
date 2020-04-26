@@ -1309,10 +1309,38 @@
     "CityCode": "",
     "Lat": "36.2",
     "Lon": "138.25",
-    "Confirmed": 11950,
-    "Deaths": 299,
-    "Recovered": 1424,
-    "Active": 10227,
+    "Confirmed": 12829,
+    "Deaths": 345,
+    "Recovered": 1530,
+    "Active": 0,
     "Date": "2020-04-24T00:00:00Z"
+  },
+  {
+    "Country": "Japan",
+    "CountryCode": "JP",
+    "Province": "",
+    "City": "",
+    "CityCode": "",
+    "Lat": "36.2",
+    "Lon": "138.25",
+    "Confirmed": 13231,
+    "Deaths": 360,
+    "Recovered": 1656,
+    "Active": 0,
+    "Date": "2020-04-25T00:00:00Z"
+  },
+  {
+    "Country": "Japan",
+    "CountryCode": "JP",
+    "Province": "",
+    "City": "",
+    "CityCode": "",
+    "Lat": "36.2",
+    "Lon": "138.25",
+    "Confirmed": 13231,
+    "Deaths": 360,
+    "Recovered": 1656,
+    "Active": 11215,
+    "Date": "2020-04-26T00:00:00Z"
   }
 ]
