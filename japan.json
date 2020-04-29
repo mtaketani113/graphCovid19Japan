@@ -1365,10 +1365,24 @@
     "CityCode": "",
     "Lat": "36.2",
     "Lon": "138.25",
-    "Confirmed": 13441,
-    "Deaths": 372,
-    "Recovered": 1809,
-    "Active": 11260,
+    "Confirmed": 13736,
+    "Deaths": 394,
+    "Recovered": 1899,
+    "Active": 0,
     "Date": "2020-04-28T00:00:00Z"
+  },
+  {
+    "Country": "",
+    "CountryCode": "",
+    "Province": "",
+    "City": "",
+    "CityCode": "",
+    "Lat": "0",
+    "Lon": "0",
+    "Confirmed": 0,
+    "Deaths": 0,
+    "Recovered": 0,
+    "Active": 0,
+    "Date": "0001-01-01T00:00:00Z"
   }
 ]
