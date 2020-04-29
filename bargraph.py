@@ -8,6 +8,10 @@ import datetime as dt
 # json読み込み
 json = rf.read_json_file('japan.json')
 
+# 末尾2つのデータは不要なので削除
+json.pop(-1)
+json.pop(-1)
+
 left_list = list()
 deaths_list = list()
 recovered_list = list()
