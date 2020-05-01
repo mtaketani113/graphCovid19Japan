@@ -1372,6 +1372,20 @@
     "Date": "2020-04-28T00:00:00Z"
   },
   {
+    "Country": "Japan",
+    "CountryCode": "JP",
+    "Province": "",
+    "City": "",
+    "CityCode": "",
+    "Lat": "36.2",
+    "Lon": "138.25",
+    "Confirmed": 13895,
+    "Deaths": 413,
+    "Recovered": 2368,
+    "Active": 0,
+    "Date": "2020-04-29T00:00:00Z"
+  },
+  {
     "Country": "",
     "CountryCode": "",
     "Province": "",
