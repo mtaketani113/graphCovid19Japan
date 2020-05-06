@@ -1463,10 +1463,10 @@
     "CityCode": "",
     "Lat": "36.2",
     "Lon": "138.25",
-    "Confirmed": 15078,
-    "Deaths": 536,
-    "Recovered": 4156,
-    "Active": 10386,
-    "Date": "2020-05-05T00:00:00Z"
+    "Confirmed": 15253,
+    "Deaths": 556,
+    "Recovered": 4496,
+    "Active": 10201,
+    "Date": "2020-05-06T00:00:00Z"
   }
 ]
