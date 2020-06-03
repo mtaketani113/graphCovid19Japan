@@ -1846,5 +1846,19 @@
     "Recovered": 14463,
     "Active": 1425,
     "Date": "2020-06-01T00:00:00Z"
+  },
+  {
+    "Country": "Japan",
+    "CountryCode": "JP",
+    "Province": "",
+    "City": "",
+    "CityCode": "",
+    "Lat": "36.2",
+    "Lon": "138.25",
+    "Confirmed": 16837,
+    "Deaths": 902,
+    "Recovered": 14585,
+    "Active": 1350,
+    "Date": "2020-06-02T00:00:00Z"
   }
 ]
